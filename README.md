@@ -1,4 +1,5 @@
-![Hi there 👋](https://img.shields.io/badge/Hi%20there%20👋-Rishitha-ff69b4?style=for-the-badge&logo=github&logoColor=FF69B4)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20Rishitha's%20GitHub!&fontSize=30&animation=fadeIn)
+
 
 <div align="center">
 
