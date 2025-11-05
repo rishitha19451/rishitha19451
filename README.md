@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Welcome%20to%20Rishitha's%20GitHub!&fontSize=30&animation=fadeIn)
-
+![Hi there 👋](https://img.shields.io/badge/Hi%20there%20👋-Rishitha-blueviolet?style=for-the-badge&logo=github)
 <div align="center">
 
 # Hi there 👋, I'm Rishitha  
