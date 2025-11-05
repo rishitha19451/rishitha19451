@@ -1,4 +1,5 @@
-![Hi there 👋](https://img.shields.io/badge/Hi%20there%20👋-Rishitha-blueviolet?style=for-the-badge&logo=github)
+![Hi there 👋](https://img.shields.io/badge/Hi%20there%20👋-Rishitha-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+
 <div align="center">
 
 # Hi there 👋, I'm Rishitha  
